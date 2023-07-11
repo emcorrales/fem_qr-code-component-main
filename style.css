@@ -31,13 +31,13 @@ body {
     .content-header {
       margin: 20px;
       font-weight:700;
-      font-size: 22px;
+      font-size: 22rem;
       text-align: center;
     }
 
     .content-paragraph {
       font-weight:400;
-      font-size: 15px;
+      font-size: 15rem;
       color: hsl(220, 15%, 55%);
       margin-bottom: 30px;
     }
